@@ -1,2 +1,2 @@
-# Algoritmos - Aula03_02
+# Algoritmo - Aula03_02
  Entradas e Operadores (parte 02)

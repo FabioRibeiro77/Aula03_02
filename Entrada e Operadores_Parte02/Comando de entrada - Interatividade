@@ -1,0 +1,12 @@
+Algoritmo "Comando de entrada - Interatividade"
+
+Var
+   Nome: Caractere
+
+
+Inicio
+      Nome <- "Gustavo"
+      Escreva ("Digite seu nome: ", Nome)
+      Leia (Nome)
+      Escreva ("Muito prazer ", Nome)
+Fimalgoritmo

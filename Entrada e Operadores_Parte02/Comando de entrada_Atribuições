@@ -1,0 +1,10 @@
+Algoritmo "Comando de entrada - Atribuições"
+
+Var
+   Nome: Caractere
+
+
+Inicio
+      Nome <- "Gustavo"
+      Escreva ("Muito prazer, ", Nome)
+Fimalgoritmo

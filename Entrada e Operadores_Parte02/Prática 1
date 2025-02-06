@@ -1,0 +1,12 @@
+Algoritmo "Prática 1"
+
+Var
+   N1, N2: Inteiro
+
+
+Inicio
+      Escreva ("Informe um numero: ")
+      Leia (N1)
+      Escreva ("Informe outro numero: ")
+      Leia (N2)
+Fimalgoritmo

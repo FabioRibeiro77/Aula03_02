@@ -1,0 +1,11 @@
+Algoritmo "Conversão de Graus para Radianos"
+
+Var
+   A: Real
+
+
+Inicio
+      A<- GraupRad (90)
+      Escreva (A)
+
+Fimalgoritmo
